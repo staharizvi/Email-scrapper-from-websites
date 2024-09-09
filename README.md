@@ -23,7 +23,7 @@ You can install all dependencies using the provided `requirements.txt` file.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/business-email-scraper.git
+    git clone https://github.com/staharizvi/Email-scrapper-from-websites.git
     cd business-email-scraper
     ```
 
